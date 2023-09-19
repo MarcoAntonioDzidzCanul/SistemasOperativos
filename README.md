@@ -9,3 +9,7 @@ Tarea #997 Hacer el https://vim-adventures.com/ los niveles gratuitos, sacar un 
 
 Tarea #996 Hacer un menú en bash que permita elegir la ejecución entre el script para crear un árbol de directorios, el script de hola mundo y el script de saludo usando variables y por último la opción de salir.
 <a href="https://asciinema.org/a/436s44Z8uhkFZr76AunsfJzca" target="_blank"><img src="https://asciinema.org/a/436s44Z8uhkFZr76AunsfJzca.svg" /></a>
+
+Codigo del MENU:
+![image](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/assets/118034450/1fa665a5-d8ed-4638-a88e-db681ae9640a)
+
