@@ -18,4 +18,8 @@ Tarea #995 Crear un gif que explique algún concepto, relacionado al curso, que 
 
 Tarea #994 Realizar los 18 bash scripts que vienen en el PDF shell_linux.pdf, subirlos a su repositorio.
 
+Tarea #988 Realizar el siguiente ejercicio durante la clase de hoy, documentar los resultados en un PDF mediante screenshots y subir el PDF a su repositorio como evidencia
+
+
+[Tarea #988.pdf](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/files/12888272/Tarea.988.pdf)
 
