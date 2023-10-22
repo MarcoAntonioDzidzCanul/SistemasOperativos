@@ -33,7 +33,6 @@ Realizar los 18 bash scripts que vienen en el PDF shell_linux.pdf, subirlos a su
 ### Tarea #993
 **Instrucciones:**
 Realizar todos los niveles de Bandit de https://overthewire.org/wargames/bandit/ poner evidencia de los comandos utilizados en un txt y subirlo a su repositorio de tareas.
-</div>
 > [!NOTE]
 > Tarea #993 -> [Niveles Bandit](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/blob/main/Niveles%20Bandit.txt).
 
