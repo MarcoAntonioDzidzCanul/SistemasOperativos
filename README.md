@@ -20,10 +20,11 @@ Tarea #995 Crear un gif que explique algún concepto, relacionado al curso, que 
 Tarea #994 Realizar los 18 bash scripts que vienen en el PDF shell_linux.pdf, subirlos a su repositorio.
 
 Tarea #993 Realizar todos los niveles de Bandit de https://overthewire.org/wargames/bandit/ poner evidencia de los comandos utilizados en un txt y subirlo a su repositorio de tareas.
-> :warning: **Importante:**
->
-> Comandos --> [Niveles Bandit](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/blob/main/Niveles%20Bandit.txt)
 
+<div style="background-color: #FFD700; color: #333; padding: 10px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);">
+  <h3 style="margin: 0; font-weight: bold;">⚠️ ¡Importante!</h3>
+  <p style="margin: 0;">Niveles Bandit <a href="https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/blob/main/Niveles%20Bandit.txt" style="text-decoration: none; color: #0066cc; font-weight: bold;">actividad</a> </p>
+</div>
 
 Tarea #988 Realizar el siguiente ejercicio durante la clase de hoy, documentar los resultados en un PDF mediante screenshots y subir el PDF a su repositorio como evidencia
 
