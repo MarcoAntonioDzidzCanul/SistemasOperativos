@@ -39,14 +39,15 @@ Realizar todos los niveles de Bandit de https://overthewire.org/wargames/bandit/
 ### Tarea #988
 **Instrucciones:**
 Realizar el siguiente ejercicio durante la clase de hoy, documentar los resultados en un PDF mediante screenshots y subir el PDF a su repositorio como evidencia.
-
-[Tarea #988.pdf](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/files/12888272/Tarea.988.pdf)
+> [!NOTE]
+> [Tarea #988.pdf](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/blob/main/Tarea.988.pdf).
 
 ### Tarea #987 
 **Instrucciones:**
 Realizar el siguiente laboratorio durante la clase de hoy, en un PDF documentar con screenshots los resultados de sus comandos y las respuestas a sus preguntas.
+> [!NOTE]
+> [Tarea #987.pdf](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/blob/main/Tarea.987.pdf).
 
-[Tarea #987.pdf](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/files/13044322/Tarea.987.pdf)
 
 
 
