@@ -21,7 +21,7 @@ Tarea #994 Realizar los 18 bash scripts que vienen en el PDF shell_linux.pdf, su
 Tarea #993 Realizar todos los niveles de Bandit de https://overthewire.org/wargames/bandit/ poner evidencia de los comandos utilizados en un txt y subirlo a su repositorio de tareas.
 > :warning: **Importante:**
 >
-> Asegúrate de completar la [Niveles Bandit](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/blob/main/Niveles%20Bandit.txt) antes del plazo de entrega. No olvides seguir las instrucciones detalladas en el archivo para garantizar una evaluación exitosa.
+> Comandos --> [Niveles Bandit](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/blob/main/Niveles%20Bandit.txt)
 
 
 Tarea #988 Realizar el siguiente ejercicio durante la clase de hoy, documentar los resultados en un PDF mediante screenshots y subir el PDF a su repositorio como evidencia
