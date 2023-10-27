@@ -50,8 +50,7 @@ Realizar el siguiente laboratorio durante la clase de hoy, en un PDF documentar 
 
 ### Tarea #986
 
-[x] Servidores
-
+- [x] Servidores
 - SSH->Open SSh
 - Web->Apache
 - DB->MariaDB
