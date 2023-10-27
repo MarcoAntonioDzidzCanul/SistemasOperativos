@@ -38,29 +38,32 @@ Realizar los 18 bash scripts que vienen en el PDF shell_linux.pdf, subirlos a su
 ### Tarea #993
 > - [x] **Instrucciones:**
 Realizar todos los niveles de Bandit de https://overthewire.org/wargames/bandit/ poner evidencia de los comandos utilizados en un txt y subirlo a su repositorio de tareas.
+
 > [!NOTE]
 > Tarea #993 -> [Niveles Bandit](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/blob/main/Niveles%20Bandit.txt).
 
 ### Tarea #988
 > - [x] **Instrucciones:**
 Realizar el siguiente ejercicio durante la clase de hoy, documentar los resultados en un PDF mediante screenshots y subir el PDF a su repositorio como evidencia.
+
 > [!NOTE]
 > [Tarea #988.pdf](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/blob/main/Tarea.988.pdf).
 
 ### Tarea #987 
 > - [x] **Instrucciones:**
 Realizar el siguiente laboratorio durante la clase de hoy, en un PDF documentar con screenshots los resultados de sus comandos y las respuestas a sus preguntas.
+
 > [!NOTE]
 > [Tarea #987.pdf](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/blob/main/Tarea.987.pdf).
 
 ### Tarea #986
 
-> - [x] Servidores
-      - SSH->Open SSh
-      - Web->Apache
-      - DB->MariaDB
-      - ProxyWeb->Squid
-      - Dns->Bind9
+- [x] Servidores
+   - SSH->Open SSh
+   - Web->Apache
+   - DB->MariaDB
+   - ProxyWeb->Squid
+   - Dns->Bind9
 
 ![Screenshot from 2023-10-26 22-50-37](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/assets/118034450/e80f33ad-4cf3-45d0-bfd9-0c6f06f5dd8a)
 
