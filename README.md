@@ -6,6 +6,8 @@
 Instalar Virtualbox y alguna distribucion de Linux, tomar screenshot del sistema ya instalado y subir la captura a su repositorio de tareas como evidencia.
 ![image](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/assets/118034450/4eebbb06-1b8f-4645-bb65-4ade6f16462b)
 
+<img src="Debian.jpg" alt="Texto alternativo" style="box-shadow: 5px 5px 5px #888;">
+
 ### Tarea #997 
 - [x] **Instrucciones:**
 Hacer el https://vim-adventures.com/ los niveles gratuitos, sacar un screenshot del ultimo nivel y subirlo a su repositorio de tareas.
