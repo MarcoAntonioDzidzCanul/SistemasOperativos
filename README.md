@@ -7,7 +7,7 @@ Instalar Virtualbox y alguna distribucion de Linux, tomar screenshot del sistema
 
 ![image](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/assets/118034450/4eebbb06-1b8f-4645-bb65-4ade6f16462b)
 
-_
+__________________
 
 ### Tarea #997 
 - [x] **Instrucciones:**
