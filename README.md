@@ -20,6 +20,9 @@ Hacer un menú en bash que permita elegir la ejecución entre el script para cre
 
 ### Codigo del MENU:
 ![image](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/assets/118034450/1fa665a5-d8ed-4638-a88e-db681ae9640a)
+> [!NOTE]
+> [Codigo del MENU](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/blob/main/Menu.sh).
+
 
 ### Tarea #995 
 - [x] **Instrucciones:**
