@@ -2,16 +2,12 @@
 ## Portafolio de tareas (Dzidz Canul Marco Antonio) 27AV - Ingenieria en Software - Upqroo✏️
 
 ### Tarea #998 
-- [x] **Instrucciones:**
+> - [x] **Instrucciones:**
 Instalar Virtualbox y alguna distribucion de Linux, tomar screenshot del sistema ya instalado y subir la captura a su repositorio de tareas como evidencia.
 ![image](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/assets/118034450/4eebbb06-1b8f-4645-bb65-4ade6f16462b)
 
-<div style="width: 200px; height: 200px; overflow: hidden; border: 1px solid #ccc; border-radius: 10px; box-shadow: 5px 5px 5px #888;">
-  <img src="Debian.jpg" alt="Texto alternativo" style="width: 100%; height: 100%; object-fit: cover;">
-</div>
-
 ### Tarea #997 
-- [x] **Instrucciones:**
+> - [x] **Instrucciones:**
 Hacer el https://vim-adventures.com/ los niveles gratuitos, sacar un screenshot del ultimo nivel y subirlo a su repositorio de tareas.
 
 ![image](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/assets/118034450/12bcca03-ec94-4cb5-8c19-c2d5ec69ddf6)
