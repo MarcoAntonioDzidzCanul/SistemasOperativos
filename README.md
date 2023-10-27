@@ -5,9 +5,7 @@
 - [x] **Instrucciones:**
 Instalar Virtualbox y alguna distribucion de Linux, tomar screenshot del sistema ya instalado y subir la captura a su repositorio de tareas como evidencia.
 
-<div style="text-align: center; margin-top: 20px; border: 1px solid #ccc; padding: 10px; border-radius: 10px; box-shadow: 5px 5px 5px #888;">
-  <img src="https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/assets/118034450/4eebbb06-1b8f-4645-bb65-4ade6f16462b" alt="Evidencia de la Tarea">
-</div>
+![image](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/assets/118034450/4eebbb06-1b8f-4645-bb65-4ade6f16462b)
 
 ### Tarea #997 
 - [x] **Instrucciones:**
