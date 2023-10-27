@@ -51,11 +51,11 @@ Realizar el siguiente laboratorio durante la clase de hoy, en un PDF documentar 
 ### Tarea #986
 
 - [x] Servidores
-- SSH->Open SSh
-- Web->Apache
-- DB->MariaDB
-- ProxyWeb->Squid
-- Dns->Bind9
+ - SSH->Open SSh
+  - Web->Apache
+   - DB->MariaDB
+     - ProxyWeb->Squid
+      - Dns->Bind9
 
 ![Screenshot from 2023-10-26 22-50-37](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/assets/118034450/e80f33ad-4cf3-45d0-bfd9-0c6f06f5dd8a)
 
