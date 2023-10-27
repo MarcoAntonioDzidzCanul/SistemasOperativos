@@ -7,71 +7,55 @@ Instalar Virtualbox y alguna distribucion de Linux, tomar screenshot del sistema
 
 ![image](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/assets/118034450/4eebbb06-1b8f-4645-bb65-4ade6f16462b)
 
-<hr>
-
 ## Tarea #997 
 - [x] **Instrucciones:**
 Hacer el https://vim-adventures.com/ los niveles gratuitos, sacar un screenshot del ultimo nivel y subirlo a su repositorio de tareas.
 
 ![image](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/assets/118034450/12bcca03-ec94-4cb5-8c19-c2d5ec69ddf6)
 
-<hr>
-
-### Tarea #996
+## Tarea #996
 - [x] **Instrucciones:**
 Hacer un menú en bash que permita elegir la ejecución entre el script para crear un árbol de directorios, el script de hola mundo y el script de saludo usando variables y por último la opción de salir.
 
 <a href="https://asciinema.org/a/436s44Z8uhkFZr76AunsfJzca" target="_blank"><img src="https://asciinema.org/a/436s44Z8uhkFZr76AunsfJzca.svg" /></a>
 
-<hr>
-
-### Codigo del MENU:
+## Codigo del MENU:
 ![image](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/assets/118034450/1fa665a5-d8ed-4638-a88e-db681ae9640a)
 > [!NOTE]
 > [Codigo del MENU](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/blob/main/Menu.sh).
 
-<hr>
-
-### Tarea #995 
+## Tarea #995 
 - [x] **Instrucciones:**
 Crear un gif que explique algún concepto, relacionado al curso, que hayas aprendido.
 
 ![Comandos linux](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/assets/118034450/b09a63d8-489a-4bbe-9a5c-17a5fb221e76)
 
-<hr>
-
-### Tarea #994 
+## Tarea #994 
 - [x] **Instrucciones:**
 Realizar los 18 bash scripts que vienen en el PDF shell_linux.pdf, subirlos a su repositorio.
 
-### Tarea #993
+## Tarea #993
 - [x] **Instrucciones:**
 Realizar todos los niveles de Bandit de https://overthewire.org/wargames/bandit/ poner evidencia de los comandos utilizados en un txt y subirlo a su repositorio de tareas.
 
 > [!NOTE]
 > Tarea #993 -> [Niveles Bandit](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/blob/main/Niveles%20Bandit.txt).
 
-<hr>
-
-### Tarea #988
+## Tarea #988
 - [x] **Instrucciones:**
 Realizar el siguiente ejercicio durante la clase de hoy, documentar los resultados en un PDF mediante screenshots y subir el PDF a su repositorio como evidencia.
 
 > [!NOTE]
 > [Tarea #988.pdf](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/blob/main/Tarea.988.pdf).
 
-<hr>
-
-### Tarea #987 
+## Tarea #987 
 - [x] **Instrucciones:**
 Realizar el siguiente laboratorio durante la clase de hoy, en un PDF documentar con screenshots los resultados de sus comandos y las respuestas a sus preguntas.
 
 > [!NOTE]
 > [Tarea #987.pdf](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/blob/main/Tarea.987.pdf).
 
-<hr>
-
-### Tarea #986
+## Tarea #986
 
 - [x] Servidores
    - SSH->Open SSh
