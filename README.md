@@ -45,7 +45,8 @@ Realizar todos los niveles de Bandit de https://overthewire.org/wargames/bandit/
 - [x] **Instrucciones:** 
 Participar en el hacktoberfest. https://x.com/hacktoberfest/status/1706642413895241838?s=46&t=wh4RmHitx0mloV0NLU800w
 
-![image](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/assets/118034450/659f83c6-0d8f-4aa3-a4c6-d7593e78a9e0)
+![image](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/assets/118034450/615f01d4-c9de-4865-a826-32061e6d917b)
+
 
 
 
