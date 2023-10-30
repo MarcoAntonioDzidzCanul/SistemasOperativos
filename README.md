@@ -41,6 +41,12 @@ Realizar todos los niveles de Bandit de https://overthewire.org/wargames/bandit/
 > [!NOTE]
 > Tarea #993 -> [Niveles Bandit](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/blob/main/Niveles%20Bandit.txt).
 
+## Tarea #992 
+- [x] **Instrucciones:** 
+Participar en el hacktoberfest. https://x.com/hacktoberfest/status/1706642413895241838?s=46&t=wh4RmHitx0mloV0NLU800w
+![image](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/assets/118034450/0662254d-db04-4b89-9792-a8ba351812dc)
+
+
 ## Tarea #988
 - [x] **Instrucciones:**
 Realizar el siguiente ejercicio durante la clase de hoy, documentar los resultados en un PDF mediante screenshots y subir el PDF a su repositorio como evidencia.
