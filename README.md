@@ -47,12 +47,11 @@ Participar en el hacktoberfest. https://x.com/hacktoberfest/status/1706642413895
 
 ![image](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/assets/118034450/615f01d4-c9de-4865-a826-32061e6d917b)
 
-
-
-
 ## Tarea #988
 - [x] **Instrucciones:**
 Realizar el siguiente ejercicio durante la clase de hoy, documentar los resultados en un PDF mediante screenshots y subir el PDF a su repositorio como evidencia.
+
+![image](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/assets/118034450/279a2465-28cb-4ae1-9de7-ac36685afd24)
 
 > [!NOTE]
 > [Tarea #988.pdf](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/blob/main/Tarea.988.pdf).
@@ -60,6 +59,8 @@ Realizar el siguiente ejercicio durante la clase de hoy, documentar los resultad
 ## Tarea #987 
 - [x] **Instrucciones:**
 Realizar el siguiente laboratorio durante la clase de hoy, en un PDF documentar con screenshots los resultados de sus comandos y las respuestas a sus preguntas.
+
+![image](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/assets/118034450/59b15cf7-47f0-4481-8223-764e9010be0e)
 
 > [!NOTE]
 > [Tarea #987.pdf](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/blob/main/Tarea.987.pdf).
