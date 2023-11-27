@@ -47,6 +47,19 @@ Participar en el hacktoberfest. https://x.com/hacktoberfest/status/1706642413895
 
 ![image](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/assets/118034450/615f01d4-c9de-4865-a826-32061e6d917b)
 
+## Tarea #991 
+- [x] **Instrucciones:**
+Realizar los rooms de Linux Fundamentals de tryhackme https://tryhackme.com/room/linuxfundamentalspart1  los 3 rooms, solo los que sean gratis.
+
+![Imagen 1](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/blob/main/Rooms_Linux_Fundamentals.png)
+![Imagen 2](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/blob/main/Linux_Fundamentals.png)
+
+## Tarea #989
+- [x] **Instrucciones:**
+Realizar el room de Bash Scripting de TYryHackMe https://tryhackme.com/room/bashscripting.
+![Imagen 1](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/blob/main/Rooms_bash_scripting.png).
+![Imagen 2](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/blob/main/bash_scripting.png)
+
 ## Tarea #988
 - [x] **Instrucciones:**
 Realizar el siguiente ejercicio durante la clase de hoy, documentar los resultados en un PDF mediante screenshots y subir el PDF a su repositorio como evidencia.
