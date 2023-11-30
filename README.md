@@ -1,5 +1,5 @@
-# SistemasOperativos
-## Portafolio de tareas (Dzidz Canul Marco Antonio) 27AV - Ingenieria en Software - Upqroo✏️
+<h1 style="color: blue;">Sistemas Operativos</h1>
+<h2 style="color: blue;">Portafolio de tareas (Dzidz Canul Marco Antonio) 27AV - Ingeniería en Software - Upqroo✏️</h2>
 
 ## Tarea #998 
 - [x] **Instrucciones:**
