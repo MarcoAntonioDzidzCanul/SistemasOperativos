@@ -54,6 +54,12 @@ Realizar los rooms de Linux Fundamentals de tryhackme https://tryhackme.com/room
 ![Imagen 1](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/blob/main/Rooms_Linux_Fundamentals.png)
 ![Imagen 2](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/blob/main/Linux_Fundamentals.png)
 
+## Tarea #990 
+- [x] **Instrucciones:**
+Crear un jail, del estilo de bandit.
+> [!NOTE]
+> Tarea #990 -> [Crear un jail.](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/blob/main/jail_comandoslinux.py).
+
 ## Tarea #989
 - [x] **Instrucciones:**
 Realizar el room de Bash Scripting de TYryHackMe https://tryhackme.com/room/bashscripting.
