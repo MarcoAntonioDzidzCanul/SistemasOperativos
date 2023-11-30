@@ -1,5 +1,5 @@
-# Sistemas Operativos - Portafolio de Tareas
-> ## Dzidz Canul Marco Antonio | 27AV - Ingeniería en Software | UPQROO✏️
+# Sistemas Operativos💻 - Portafolio de Tareas📝
+> ## Dzidz Canul Marco Antonio | 27AV - Ingeniería en Software | UPQROO
 
 ## Tarea #998 
 >- [x] **Instrucciones:**
