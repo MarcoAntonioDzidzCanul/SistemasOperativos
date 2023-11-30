@@ -33,6 +33,8 @@ Crear un gif que explique algún concepto, relacionado al curso, que hayas apren
 ## Tarea #994 
 - [x] **Instrucciones:**
 Realizar los 18 bash scripts que vienen en el PDF shell_linux.pdf, subirlos a su repositorio.
+> [!NOTE]
+> Tarea #994 -> [18 bash scripts](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/tree/main/18%20Scripts).
 
 ## Tarea #993
 - [x] **Instrucciones:**
