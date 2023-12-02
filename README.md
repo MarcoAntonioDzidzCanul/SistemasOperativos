@@ -99,5 +99,6 @@ Realizar el siguiente laboratorio durante la clase de hoy, en un PDF documentar 
    - Dns->Bind9
 
 ![Screenshot from 2023-10-26 22-50-37](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/assets/118034450/e80f33ad-4cf3-45d0-bfd9-0c6f06f5dd8a)
+1[Servidores](https://github.com/MarcoAntonioDzidzCanul/SistemasOperativos/blob/main/Servidores%20(2).png)
 
 
